@@ -15,4 +15,9 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/aamirali65/Leetcode/tree/master/0141-linked-list-cycle) |
+| [1768-merge-strings-alternately](https://github.com/aamirali65/Leetcode/tree/master/1768-merge-strings-alternately) |
+## String
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/aamirali65/Leetcode/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
