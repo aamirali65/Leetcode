@@ -20,4 +20,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1768-merge-strings-alternately](https://github.com/aamirali65/Leetcode/tree/master/1768-merge-strings-alternately) |
+## Array
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/aamirali65/Leetcode/tree/master/0066-plus-one) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/aamirali65/Leetcode/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
